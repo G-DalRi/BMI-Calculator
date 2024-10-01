@@ -1,2 +1,2 @@
 # BMI-Calculator
-This is a BMI Calculator that I made in Python, it's simple, just to start posting in here :)
+This is a BMI calculator I made in Python. It's simple, just something to start posting here. :)
